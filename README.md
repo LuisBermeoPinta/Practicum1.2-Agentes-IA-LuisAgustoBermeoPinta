@@ -1,1 +1,7 @@
-# Practicum1.2-Agentes-IA-LuisAgustoBermeoPinta
+# Bitácora de Trabajo
+## Registro de actividades
+| Fecha       | Actividad                                      | Horas |
+|------------|-----------------------------------------------|------|
+|  |      |   |
+
+## Detalle de actividades
