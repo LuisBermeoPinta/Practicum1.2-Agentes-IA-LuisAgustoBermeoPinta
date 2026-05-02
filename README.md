@@ -4,7 +4,7 @@
 |------------|-----------------------------------------------|------|
 | 01/05/2026 | Investigacion y sintesis de los conceptos sobre Agentes de IA   | 2  |
 | 02/05/2026 | Busqueda de fuentes que me ayuden a redactar la Introduccion | 2  |
-|  |      |   |
+| 02/05/2026 | Redacción del apartado de Trabajos Relacionados    |  2 |
 
 ## Detalle de actividades
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
@@ -52,3 +52,26 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 **Transversalidad Tecnológica:** Se observo que los agentes de IA no son exclusivos de la informática, sino que están optimizando sistemas complejos como redes eléctricas en Australia y protocolos de seguridad en subestaciones.
 
 **Conexión Teórica:** Se comprendió que el análisis de investigaciones actuales en diversas áreas permite construir una base teórica sólida para proponer el uso de IA en la optimización de servicios y la gestión de la información.
+
+### 📅 02/05/2026: Redacción del apartado de Trabajos Relacionados
+**Objetivo:** Analizar literatura técnica reciente para fundamentar la sección de trabajos relacionados, enfocándose en arquitecturas multi-agente y su aplicación en la gestión de servicios.
+
+**Proceso:**
+
+**Diseño de la cadena de búsqueda:** Se estructuró la consulta "(LLM agents OR autonomous agents) AND (tool use OR "collaborative reasoning" OR persistent memory) AND (optimization OR institutional services)" para identificar artículos con enfoque en optimización operativa.
+
+**Refinamiento y selección:** Se filtraron los resultados priorizando estudios de 2025 y 2026, seleccionando el trabajo de Liu et al. (2025) por su enfoque en sistemas multi-agente informados por modelos de lenguaje.
+
+<img width="2486" height="1503" alt="image" src="https://github.com/user-attachments/assets/6582eacd-b606-474b-885d-479d1724ab29" />
+
+**Análisis de arquitectura:** Se realizó una revisión de los conceptos de "Agentes Router" y agentes especialistas para la ejecución de tareas complejas de forma autónoma.
+
+**Redacción técnica:** Se elaboró el borrador de la sección organizando los hallazgos en tres ejes: arquitecturas multi-agente, razonamiento de datos e interacción humano-agente mediante lenguaje natural.
+
+**Resultados y Aprendizajes:**
+
+**Modularidad en IA:** Se comprendió que la implementación de un "Agente Router" es clave para derivar requerimientos institucionales hacia agentes especialistas de manera eficiente.
+
+**Coordinación de Agentes:** Se analizó cómo los modelos de lenguaje actuales sirven como motor de razonamiento para orquestar múltiples herramientas y sub-agentes.
+
+**Impacto en Servicios:** Se concluyó que el uso de arquitecturas autónomas puede agilizar significativamente los trámites y la atención al usuario en entornos académicos y administrativos.
