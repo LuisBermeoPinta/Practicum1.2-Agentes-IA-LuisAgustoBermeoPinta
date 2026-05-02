@@ -2,16 +2,17 @@
 ## Registro de actividades
 | Fecha       | Actividad                                      | Horas |
 |------------|-----------------------------------------------|------|
-| 01/05/2026 |   Investigacion y sintesis de los conceptos sobre Agentes de IA   | 2  |
-|  |      |   |
+| 01/05/2026 | Investigacion y sintesis de los conceptos sobre Agentes de IA   | 2  |
+| 02/05/2026 | Busqueda de fuentes que me ayuden a redactar la Introduccion | 2  |
 |  |      |   |
 
 ## Detalle de actividades
-📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
+### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
 
 **Objetivo:** Establecer la base teórica y técnica para el desarrollo del artículo de "Estado del Arte".
 
-**Proceso:** Se realizó una búsqueda especializada para definir el marco conceptual.
+**Proceso:** 
+Se realizó una búsqueda especializada para definir el marco conceptual.
 
 **Resultados y Aprendizajes:**
 
@@ -26,3 +27,28 @@
 **Evaluación:** Uso de herramientas para medir qué tan "fiel" es la respuesta de la IA respecto a los documentos que consultó.
 
 **Guardrails:** Mecanismos de seguridad que actúan como "filtros" para asegurar que la IA siga reglas específicas y no realice acciones peligrosas o incorrectas.
+
+**Fuente:** https://www.ibm.com/think/topics/ai-agents
+
+
+### 📅 02/05/2026: Búsqueda y redacción de fuentes para completar la Introduccion
+**Objetivo:** Identificar fuentes académicas que demuestren la transversalidad de los agentes de IA y redactar la introducción del artículo alineada a la realidad tecnológica actual.
+
+**Proceso:**
+
+**Diseño de la cadena de búsqueda:** Se estructuró la consulta "Artificial Intelligence Evolution AND Tools Technologies AND Trends Future" basándose en las secciones requeridas para el artículo de revisión.
+
+**Refinamiento y filtrado:** Se aplicaron filtros de temporalidad (2025-2026), área de conocimiento (Ciencias de la Computacion) y tipo de documento (Articulo de Investigacion) en la base de datos ScienceDirect, reduciendo los resultados a 52 artículos.
+
+<img width="2508" height="1501" alt="image" src="https://github.com/user-attachments/assets/61f41317-eefc-452d-bdf7-9a57d5e6f54e" />
+
+
+**Análisis de evidencia:** Se realizó una lectura técnica de los resúmenes (abstracts) para identificar la aplicación de agentes en sectores diversos como salud, energía renovable y lingüística.
+
+**Redacción técnica:** Se elaboró el primer borrador de la Introducción, utilizando la evidencia recolectada para justificar el uso de la IA y planteando la pregunta de investigación.
+
+**Resultados y Aprendizajes:**
+
+**Transversalidad Tecnológica:** Se observo que los agentes de IA no son exclusivos de la informática, sino que están optimizando sistemas complejos como redes eléctricas en Australia y protocolos de seguridad en subestaciones.
+
+**Conexión Teórica:** Se comprendió que el análisis de investigaciones actuales en diversas áreas permite construir una base teórica sólida para proponer el uso de IA en la optimización de servicios y la gestión de la información.
