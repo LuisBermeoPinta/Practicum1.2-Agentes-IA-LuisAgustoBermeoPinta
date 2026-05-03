@@ -7,6 +7,7 @@
 | 02/05/2026 | Redacción del apartado de Trabajos Relacionados    |  2 |
 | 02/05/2026 | Redacción del apartado de Herramientas y Tecnologías |  2  |
 | 03/05/2026 | Redacción del apartado de Tendencias y Futuro |  2  |
+| 03/05/2026 | Estructuración y Redacción del Marco Conceptual |  2  |
 
 ## Detalle de actividades
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
@@ -120,3 +121,19 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 **Eficiencia mediante Atención:** Se analizó cómo los mecanismos de atención permitirán que los agentes del futuro gestionen sus propios recursos, ignorando datos redundantes y priorizando eventos críticos de manera autónoma.  
 
 **Seguridad Preventiva:** Se concluyó que la evolución de los agentes se dirige hacia modelos colaborativos (Líder-Seguidor) que no solo ejecutan tareas, sino que garantizan la seguridad y el cumplimiento de normativas en tiempo real de forma invisible para el usuario.
+
+
+### 📅 03/05/2026: Estructuración y Redacción del Marco Conceptual
+**Objetivo:** Definir las bases teóricas del artículo mediante la extracción y validación de conceptos técnicos provenientes de la literatura científica seleccionada.
+
+**Proceso:**
+
+**Mapeo de Conceptos:** Se cruzaron los términos utilizados en las diferentes secciones con las fuentes bibliográficas originales para asegurar la precisión terminológica.  
+
+**Redacción Técnica:** Se estructuró el marco conceptual en cinco ejes fundamentales: Núcleos Cognitivos, Arquitecturas Autónomas, Técnicas de Adaptación, Infraestructura y Seguridad. 
+
+**Resultados y Aprendizajes:**
+
+**Interoperabilidad Conceptual:** Se comprendió cómo técnicas de edición de modelos como ReFT y PyVene se fundamentan en la intervención de representaciones internas para mejorar la precisión institucional.
+
+**Jerarquización del Conocimiento:** Se analizó que el Razonamiento Jerárquico no solo aplica a entornos físicos (3DSG), sino que es transferible a la lógica organizacional universitaria para optimizar trámites.  
