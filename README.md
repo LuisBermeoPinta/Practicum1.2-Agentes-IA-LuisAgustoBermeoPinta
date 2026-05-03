@@ -5,6 +5,7 @@
 | 01/05/2026 | Investigacion y sintesis de los conceptos sobre Agentes de IA   | 2  |
 | 02/05/2026 | Busqueda de fuentes que me ayuden a redactar la Introduccion | 2  |
 | 02/05/2026 | Redacción del apartado de Trabajos Relacionados    |  2 |
+| 02/05/2026 | Redacción del apartado de Herramientas y Tecnologías |  2  |
 
 ## Detalle de actividades
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
@@ -60,8 +61,6 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 
 **Diseño de la cadena de búsqueda:** Se estructuró la consulta "(LLM agents OR autonomous agents) AND (tool use OR "collaborative reasoning" OR persistent memory) AND (optimization OR institutional services)" para identificar artículos con enfoque en optimización operativa.
 
-**Refinamiento y selección:** Se filtraron los resultados priorizando estudios de 2025 y 2026, seleccionando el trabajo de Liu et al. (2025) por su enfoque en sistemas multi-agente informados por modelos de lenguaje.
-
 <img width="2486" height="1503" alt="image" src="https://github.com/user-attachments/assets/6582eacd-b606-474b-885d-479d1724ab29" />
 
 **Análisis de arquitectura:** Se realizó una revisión de los conceptos de "Agentes Router" y agentes especialistas para la ejecución de tareas complejas de forma autónoma.
@@ -75,3 +74,24 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 **Coordinación de Agentes:** Se analizó cómo los modelos de lenguaje actuales sirven como motor de razonamiento para orquestar múltiples herramientas y sub-agentes.
 
 **Impacto en Servicios:** Se concluyó que el uso de arquitecturas autónomas puede agilizar significativamente los trámites y la atención al usuario en entornos académicos y administrativos.
+
+### 📅 02/05/2026: Redacción del apartado de Herramientas y Tecnologías
+**Objetivo:** Identificar e integrar los componentes técnicos, frameworks de adaptación y protocolos de seguridad que sustentan la arquitectura de los agentes aplicados a servicios institucionales.
+
+**Proceso:** 
+
+**Diseño de la cadena de búsqueda:** Se estructuró la consulta "(AI agent frameworks OR autonomous agent platforms) AND (agentic orchestration OR multi-agent systems architecture) AND (emerging technologies OR development tools)" para localizar herramientas de orquestación y defensa de modelos.
+
+<img width="2533" height="1502" alt="image" src="https://github.com/user-attachments/assets/151ea4d4-8d01-42cf-8b3b-7f080ea193db" />
+
+**Análisis de integración:** Se desglosaron las herramientas en tres ejes: núcleo cognitivo (Llama-3), frameworks de intervención (PyVene, LoRA, ReFT) y orquestación de agentes (MAFSID).
+
+**Redacción técnica:** Se elaboró el borrador de la sección conectando cada herramienta con la "eficiencia operativa" planteada en la introducción y la figura del "Agente Router" de los trabajos relacionados.
+
+**Resultados y Aprendizajes:**
+
+**Inmunización y Seguridad:** Se comprendió la importancia de utilizar evaluadores como Llama-Guard-2 y técnicas de intervención en tiempo de inferencia para garantizar que el agente institucional sea resiliente ante manipulaciones.
+
+**Especialización Eficiente:** Se analizó cómo el uso de adaptadores de bajo rango (LoRA) permite que la institución personalice modelos de lenguaje con normativas propias de forma ligera, optimizando los recursos de hardware.
+
+**Orquestación Sostenible:** Se concluyó que la integración del framework MAFSID permite la colaboración de agentes especialistas, asegurando una gestión de procesos administrativos más robusta y jerarquizada.
