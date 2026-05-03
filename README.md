@@ -6,6 +6,7 @@
 | 02/05/2026 | Busqueda de fuentes que me ayuden a redactar la Introduccion | 2  |
 | 02/05/2026 | Redacción del apartado de Trabajos Relacionados    |  2 |
 | 02/05/2026 | Redacción del apartado de Herramientas y Tecnologías |  2  |
+| 03/05/2026 | Redacción del apartado de Tendencias y Futuro |  2  |
 
 ## Detalle de actividades
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
@@ -95,3 +96,27 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 **Especialización Eficiente:** Se analizó cómo el uso de adaptadores de bajo rango (LoRA) permite que la institución personalice modelos de lenguaje con normativas propias de forma ligera, optimizando los recursos de hardware.
 
 **Orquestación Sostenible:** Se concluyó que la integración del framework MAFSID permite la colaboración de agentes especialistas, asegurando una gestión de procesos administrativos más robusta y jerarquizada.
+
+### 📅 03/05/2026: Redacción del apartado de Tendencias y Futuro
+**Objetivo:** Proyectar la evolución de los sistemas inteligentes en la gestión de servicios basándose en literatura de vanguardia y arquitecturas descentralizadas.
+
+**Proceso:**
+
+**Diseño de la cadena de búsqueda:** Se estructuró la consulta "AI agents AND autonomous agents AND (future trends OR 2026 roadmap) AND (institutional services OR public administration)" para identificar la hoja de ruta de estas tecnologías en entornos organizacionales.
+
+<img width="2500" height="1432" alt="image" src="https://github.com/user-attachments/assets/ff4a6c81-2962-4367-9e30-d1119702e37d" />
+
+
+**Refinamiento y filtrado:** Se aplicaron filtros de temporalidad (2025-2026) y área de conocimiento (Computer Science) en ScienceDirect, priorizando artículos que proponen arquitecturas de referencia para la próxima generación de IIoT y servicios públicos.
+
+**Análisis de arquitectura futura:** Se realizó una lectura técnica enfocada en la transición de la IA centralizada hacia el Edge AI y el uso de Sistemas Multi-Agente (MAS) con mecanismos de atención selectiva.  
+
+**Redacción técnica:** Se elaboró el borrador de la sección organizando los hallazgos en tres ejes: descentralización del procesamiento (Edge AI), optimización de recursos mediante atención adaptativa y seguridad laboral preventiva.  
+
+**Resultados y Aprendizajes:**
+
+**Descentralización Operativa:** Se comprendió que la tendencia futura es el procesamiento en el "borde" (Edge), permitiendo que los agentes tomen decisiones locales para reducir la latencia y no saturar el ancho de banda.
+
+**Eficiencia mediante Atención:** Se analizó cómo los mecanismos de atención permitirán que los agentes del futuro gestionen sus propios recursos, ignorando datos redundantes y priorizando eventos críticos de manera autónoma.  
+
+**Seguridad Preventiva:** Se concluyó que la evolución de los agentes se dirige hacia modelos colaborativos (Líder-Seguidor) que no solo ejecutan tareas, sino que garantizan la seguridad y el cumplimiento de normativas en tiempo real de forma invisible para el usuario.
