@@ -8,6 +8,7 @@
 | 02/05/2026 | Redacción del apartado de Herramientas y Tecnologías |  2  |
 | 03/05/2026 | Redacción del apartado de Tendencias y Futuro |  2  |
 | 03/05/2026 | Estructuración y Redacción del Marco Conceptual |  2  |
+| 03/05/2026 | Redacción del Abstract y Conclusiones |  2  |
 
 ## Detalle de actividades
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
@@ -136,4 +137,20 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 
 **Interoperabilidad Conceptual:** Se comprendió cómo técnicas de edición de modelos como ReFT y PyVene se fundamentan en la intervención de representaciones internas para mejorar la precisión institucional.
 
-**Jerarquización del Conocimiento:** Se analizó que el Razonamiento Jerárquico no solo aplica a entornos físicos (3DSG), sino que es transferible a la lógica organizacional universitaria para optimizar trámites.  
+**Jerarquización del Conocimiento:** Se analizó que el Razonamiento Jerárquico no solo aplica a entornos físicos (3DSG), sino que es transferible a la lógica organizacional universitaria para optimizar trámites.
+
+
+### 📅  03/05/2026: Redacción del Abstract y Conclusiones
+**Objetivo:** Sintetizar los hallazgos de la investigación y consolidar las reflexiones finales del artículo de revisión.
+
+**Proceso:**
+
+**Síntesis Ejecutiva:** Se redactó el Abstract, las tecnologías clave analizadas (Llama-3, MAS, LoRA) y los resultados esperados.  
+
+**Análisis Conclusivo:** Se elaboraron las conclusiones finales basándose en la trazabilidad del artículo, enfocándose en el impacto de la autonomía cognitiva y la seguridad ética en la gestión universitaria.  
+
+**Resultados y Aprendizajes:**
+
+**Valor de la Síntesis:** Se comprendió que el Abstract actúa como el núcleo del artículo, facilitando la comprensión rápida del potencial de los agentes de IA.  
+
+**Cierre del Estado del Arte:** Se logró una visión cohesiva donde la tecnología no solo se presenta como una herramienta aislada, sino como un ecosistema coordinado para mejorar la experiencia del usuario final.  
