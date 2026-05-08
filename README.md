@@ -9,6 +9,7 @@
 | 03/05/2026 | Redacción del apartado de Tendencias y Futuro |  2  |
 | 03/05/2026 | Estructuración y Redacción del Marco Conceptual |  2  |
 | 03/05/2026 | Redacción del Abstract y Conclusiones |  2  |
+| 07/05/2026 | Mejoras Técnicas y de formato del documento |  1  |
 
 ## Detalle de actividades
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
@@ -154,3 +155,25 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 **Valor de la Síntesis:** Se comprendió que el Abstract actúa como el núcleo del artículo, facilitando la comprensión rápida del potencial de los agentes de IA.  
 
 **Cierre del Estado del Arte:** Se logró una visión cohesiva donde la tecnología no solo se presenta como una herramienta aislada, sino como un ecosistema coordinado para mejorar la experiencia del usuario final.  
+
+### 📅 07/05/2026: Mejoras Técnicas y de formato del documento
+**Objetivo:** Alinear el artículo con los requerimientos técnicos y estandarizar el documento bajo normas institucionales (APA 7).
+
+**Proceso:**
+
+**Actualización de Vocabulario Común:** Se integraron conceptos explicados por el tutor en clase, como el Bucle de Control (Planificación-Acción-Observación-Reflexión) para diferenciar agentes de chatbots convencionales.
+
+**Refinamiento Técnico (Fuente IBM):** Se profundizó en los paradigmas de razonamiento ReAct y ReWOO
+
+**Cambio de Formato:** Se migró el sistema de citación de IEEE a APA 7ma edición, reorganizando la bibliografía y las referencias parentéticas en el texto.
+
+**Mejoras Visuales:** Ajuste de tipografía, márgenes y creación de una portada formal para elevar la calidad de la "carta de presentación" del proyecto.
+
+**Resultados y Aprendizajes:**
+
+**Diferenciación Operativa:** Se comprendió que un agente no es un script fijo, sino un sistema con capacidad de decisión y uso de herramientas (Tool Use) externas.
+
+**Métricas de Evaluación:** Se identificó la necesidad de medir la eficacia mediante precisión, latencia, recall y costo, ya que "si no se mide, no es un agente productivo".
+
+**Gobernanza:** Se incluyó el concepto de Human-in-the-loop (HITL) para validar acciones de alto impacto institucional antes de su ejecución.
+
