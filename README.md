@@ -10,6 +10,9 @@
 | 03/05/2026 | Estructuración y Redacción del Marco Conceptual |  2  |
 | 03/05/2026 | Redacción del Abstract y Conclusiones |  2  |
 | 07/05/2026 | Mejoras Técnicas y de formato del documento |  1  |
+| 07/05/2026 | Ajustes de Contextualización y Refinamiento Final |  1  |
+
+
 
 ## Detalle de actividades
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
@@ -177,3 +180,11 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 
 **Gobernanza:** Se incluyó el concepto de Human-in-the-loop (HITL) para validar acciones de alto impacto institucional antes de su ejecución.
 
+
+### 📅 07/05/2026: Ajustes de Contextualización y Refinamiento Final
+
+**Contextualización Local:** Se integró la sección de "Trabajos Relacionados" incluyendo investigación aplicada de la UTPL (fuente de Cultura Científica), citando los proyectos de detección de cáncer y prevención de incendios para alinear el artículo con la realidad institucional.
+
+**Refinamiento de Conclusiones:** Se ajustó el cierre del documento para incluir métricas de éxito (latencia, precisión y costo operativo) y el principio de Human-in-the-loop.
+
+**Ajuste de Formato:** Se realizó una revisión general para asegurar el cumplimiento de las Normas APA 7 en las citas y referencias, y se sintetizaron conceptos técnicos para mejorar la fluidez del texto.
