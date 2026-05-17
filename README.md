@@ -10,11 +10,12 @@
 | 03/05/2026 | Estructuración y Redacción del Marco Conceptual |  2  |
 | 03/05/2026 | Redacción del Abstract y Conclusiones |  2  |
 | 07/05/2026 | Mejoras Técnicas y de formato del documento |  1  |
-| 07/05/2026 | Ajustes de Contextualización y Refinamiento Final |  1  |
-
+| 07/05/2026 | Ajustes de Contextualización |  1  |
+| 17/05/2026 | Reestructuración a formato IEEE y expansion del apartado Trabajos Relacionados |  1  |
 
 
 ## Detalle de actividades
+
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
 
 **Objetivo:** Establecer la base teórica y técnica para el desarrollo del artículo de "Estado del Arte".
@@ -188,3 +189,17 @@ Se realizó una búsqueda especializada para definir el marco conceptual.
 **Refinamiento de Conclusiones:** Se ajustó el cierre del documento para incluir métricas de éxito (latencia, precisión y costo operativo) y el principio de Human-in-the-loop.
 
 **Ajuste de Formato:** Se realizó una revisión general para asegurar el cumplimiento de las Normas APA 7 en las citas y referencias, y se sintetizaron conceptos técnicos para mejorar la fluidez del texto.
+
+
+### 📅 17/05/2026: Reestructuración a formato IEEE y expansion del apartado Trabajos Relacionados
+
+**Objetivo:** Finalizar el artículo de revisión técnica adaptándolo al estándar IEEE y fortaleciendo la sección de trabajos relacionados con investigación aplicada local y nacional
+
+**Proceso:** 
+
+Se realizó el ajuste de formato eliminando la portada e integrando el título y autor en la primera página, tambien Se cambió el sistema de citas de formato (Autor, año) a numeración entre corchetes y se ajustaron los márgenes para optimizar el espacio documental
+Paralelamente, se amplió la sección de Trabajos Relacionados incluyendo y un estudio nacional sobre la adopción de IA en universidades ecuatorianas
+
+**Resultados y Aprendizajes:**
+
+Se validó que la arquitectura multi-agente propuesta responde a retos reales de la DGTITD, alineándose con la visión de la UTPL de IA como combustible de la productividad
