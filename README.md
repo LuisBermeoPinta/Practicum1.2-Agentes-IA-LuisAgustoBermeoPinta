@@ -1,5 +1,6 @@
 # Bitácora de Trabajo
-## Registro de actividades
+## Estado del Arte
+### Registro de actividades
 | Fecha       | Actividad                                      | Horas |
 |------------|-----------------------------------------------|------|
 | 01/05/2026 | Investigacion y sintesis de los conceptos sobre Agentes de IA   | 2  |
@@ -14,13 +15,14 @@
 | 17/05/2026 | Reestructuración a formato IEEE y expansion del apartado Trabajos Relacionados |  1  |
 
 
-## Detalle de actividades
+### Detalle de actividades
 
 ### 📅 01/05/2026: Investigacion y sintesis de los conceptos sobre Agentes de IA
 
 **Objetivo:** Establecer la base teórica y técnica para el desarrollo del artículo de "Estado del Arte".
 
 **Proceso:** 
+
 Se realizó una búsqueda especializada para definir el marco conceptual.
 
 **Resultados y Aprendizajes:**
@@ -203,3 +205,32 @@ Paralelamente, se amplió la sección de Trabajos Relacionados incluyendo y un e
 **Resultados y Aprendizajes:**
 
 Se validó que la arquitectura multi-agente propuesta responde a retos reales de la DGTITD, alineándose con la visión de la UTPL de IA como combustible de la productividad
+
+
+## Reto Introductorio
+### Registro de actividades
+| Fecha       | Actividad                                      | Horas |
+|------------|-----------------------------------------------|------|
+| 17/05/2026 |  Construcción y estructuración de la Base de Conocimiento   | 2 |
+
+
+
+### Detalle de actividades
+
+### 📅 17/05/2026: Construcción y estructuración de la Base de Conocimiento
+
+**Objetivo:** Crear una base de conocimiento de información verídica y etiquetada sobre la oferta académica de la UTPL para servir como fuente de verdad para el asistente de IA
+
+**Proceso:**
+
+Se seleccionaron 15 programas académicos del portal oficial utpl.edu.ec, cubriendo los mínimos exigidos: 10 carreras de grado, 3 posgrados y 2 cursos de educación continua
+Para cada programa, se extrajeron y normalizaron siete campos de datos (nombre oficial, tipo, área, modalidad, duración, sedes y perfil de egreso)
+La información se organizó en un archivo de texto plano (.txt) utilizando etiquetas consistentes en mayúsculas para que los LLM puedan identificar los patrones de datos sin ambigüedades durante las pruebas.
+
+**Resultados y Aprendizajes:**
+
+Se obtuvo un documento técnico estructurado que garantiza la fidelidad de la información, permitiendo que el asistente responda con precisión y reduciendo el riesgo de alucinaciones
+Se comprendió que la calidad de un asistente de IA no depende solo del modelo, sino de una arquitectura de datos limpia y bien etiquetada.
+
+
+
