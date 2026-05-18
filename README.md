@@ -212,6 +212,9 @@ Se validó que la arquitectura multi-agente propuesta responde a retos reales de
 | Fecha       | Actividad                                      | Horas |
 |------------|-----------------------------------------------|------|
 | 17/05/2026 |  Construcción y estructuración de la Base de Conocimiento   | 2 |
+| 17/05/2026 |  Evaluación de Modelos de Lenguaje e Iteración de Prompts   | 3 |
+
+
 
 
 
@@ -232,5 +235,15 @@ La información se organizó en un archivo de texto plano (.txt) utilizando etiq
 Se obtuvo un documento técnico estructurado que garantiza la fidelidad de la información, permitiendo que el asistente responda con precisión y reduciendo el riesgo de alucinaciones
 Se comprendió que la calidad de un asistente de IA no depende solo del modelo, sino de una arquitectura de datos limpia y bien etiquetada.
 
+### 📅 17/05/2026: Evaluación de Modelos de Lenguaje e Iteración de Prompts
 
+**Objetivo:** Evaluar el comportamiento de dos modelos de inteligencia artificial (Gemini 3 Flash y Llama 3.1 8B) frente a la base de conocimiento y refinar los prompts para eliminar alucinaciones lógicas
+
+**Proceso:**
+
+Se realizaron pruebas experimentales utilizando tres tipos de prompts: Base, Contextualizado y con Rol. Se analizó cómo reaccionaba cada modelo ante un cambio de palabras en la pregunta ("semestres" frente a "ciclos" que estaba en el texto). Al detectar que el modelo Llama fallaba al inventar cálculos matemáticos innecesarios y perdía la postura de su rol, se diseñó un proceso de mejora en dos pasos. Primero se reforzó la identidad del personaje y, en un segundo refinamiento, se aplicó una restricción estricta para prohibir operaciones lógicas, obligando a los modelos a limitarse a los datos literales del documento
+
+**Resultados y Aprendizajes:**
+
+Se logró un prompt final balanceado que solucionó los errores en ambos sistemas: Llama dejó de hacer cálculos falsos alcanzando una precisión alta, y Gemini recuperó el equilibrio entre la amabilidad de su rol y la exactitud del dato. Se aprendió que los modelos más pequeños tienden a fallar por sobrecarga de instrucciones y que la ingeniería de prompts requiere ordenar bien las reglas (instrucciones primero, pregunta al final) para guiar correctamente la lógica de la IA
 
