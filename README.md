@@ -213,6 +213,8 @@ Se validó que la arquitectura multi-agente propuesta responde a retos reales de
 |------------|-----------------------------------------------|------|
 | 17/05/2026 |  Construcción y estructuración de la Base de Conocimiento   | 2 |
 | 17/05/2026 |  Evaluación de Modelos de Lenguaje e Iteración de Prompts   | 3 |
+| 18/05/2026 |  Ingeniería de prompts iterativa y redacción del informe técnico final  | 2 |
+
 
 
 
@@ -247,3 +249,16 @@ Se realizaron pruebas experimentales utilizando tres tipos de prompts: Base, Con
 
 Se logró un prompt final balanceado que solucionó los errores en ambos sistemas: Llama dejó de hacer cálculos falsos alcanzando una precisión alta, y Gemini recuperó el equilibrio entre la amabilidad de su rol y la exactitud del dato. Se aprendió que los modelos más pequeños tienden a fallar por sobrecarga de instrucciones y que la ingeniería de prompts requiere ordenar bien las reglas (instrucciones primero, pregunta al final) para guiar correctamente la lógica de la IA
 
+
+
+### 📅 18/05/2026: Ingeniería de prompts iterativa y redacción del informe técnico final
+
+**Objetivo:** Diseñar y documentar la evolución incremental del prompt mediante tres versiones diferenciadas para mitigar las alucinaciones lógicas, y estructurar el informe.
+
+**Proceso:**
+
+Se trabajó sobre la base de pruebas del día anterior para resolver formalmente el colapso matemático de Llama 3.1 8B y la pérdida de empatía en Gemini 3 Flash. Se documentó el proceso de refinamiento en tres etapas (Prompt Original, Versión 2 y Versión 3), detallando el impacto técnico de cada cambio en la ventana de contexto de los modelos. Posteriormente, se redactó el informe final, estructurando los aprendizajes, argumentando las tres limitaciones estructurales del enfoque sin código y formulando la propuesta de arquitectura mediante una API conectada a bases de datos relacionales.
+
+**Resultados y Aprendizajes:**
+
+Se asimiló que el refinamiento de prompts no es un proceso al azar, sino una tarea de optimización lógica donde segmentar las instrucciones (separar el rol de las restricciones estrictas) es fundamental para guiar el comportamiento de modelos con diferentes capacidades de parámetros.
