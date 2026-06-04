@@ -267,11 +267,6 @@ Se asimiló que el refinamiento de prompts no es un proceso al azar, sino una ta
 
 
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 0ba2a0842a3097fd3203f560bf25af4b86389a9a
 ## Reto Final
 ### Registro de actividades
 | Fecha       | Actividad                                      | Horas |
@@ -293,8 +288,4 @@ Se asimiló que el refinamiento de prompts no es un proceso al azar, sino una ta
 
 **Resultados y Aprendizajes:**
 
-<<<<<<< HEAD
 Se completó el boceto del diagrama de arquitectura en draw.io abarcando desde la entrada de archivos hasta la salida en Word y su posterior evaluación. Se comprendió la utilidad de utilizar un formato de datos intermedio (JSON unificado) para estructurar la información de manera ordenada antes de escribir el archivo final, y cómo el encadenamiento de contexto ayuda a que los prompts generen recursos más coherentes entre sí.
-=======
-Se completó el boceto del diagrama de arquitectura en draw.io abarcando desde la entrada de archivos hasta la salida en Word y su posterior evaluación. Se comprendió la utilidad de utilizar un formato de datos intermedio (JSON unificado) para estructurar la información de manera ordenada antes de escribir el archivo final, y cómo el encadenamiento de contexto ayuda a que los prompts generen recursos más coherentes entre sí.
->>>>>>> 0ba2a0842a3097fd3203f560bf25af4b86389a9a
