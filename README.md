@@ -262,3 +262,31 @@ Se trabajó sobre la base de pruebas del día anterior para resolver formalmente
 **Resultados y Aprendizajes:**
 
 Se asimiló que el refinamiento de prompts no es un proceso al azar, sino una tarea de optimización lógica donde segmentar las instrucciones (separar el rol de las restricciones estrictas) es fundamental para guiar el comportamiento de modelos con diferentes capacidades de parámetros.
+
+
+
+
+
+
+## Reto Final
+### Registro de actividades
+| Fecha       | Actividad                                      | Horas |
+|------------|-----------------------------------------------|------|
+| 03/06/2026 |  Diseño del Diagrama de Arquitectura del Sistema Generador de Recursos Didácticos  | 4 |
+
+### 📅 03/06/2026: Diseño del Diagrama de Arquitectura del Sistema Generador de Recursos Didácticos
+**Objetivo:** Diseñar conceptualmente y diagramar la arquitectura completa de software para la ingesta de documentos de la asignatura, la orquestación secuencial de un pipeline de prompts enriquecidos y un sistema de evaluación híbrido.
+
+**Proceso:**
+
+**Fase de Ingesta y Preprocesamiento:** Se estructuró un módulo de control de entrada segmentado por extensiones de archivos para diversificar el soporte de formatos digitales. Se integraron soluciones específicas mediante librerías nativas de Python: pypdf para mapeo de coordenadas en documentos PDF, python-docx para la lectura de estructuras XML en archivos de Word, y flujos de entrada nativos (open()) para texto plano.
+
+**Mecanismos de Segmentación:** Se realizó un análisis costo-beneficio comparando dos aproximaciones de diseño: un Parser Algorítmico Basado en Reglas Rígidas (mediante expresiones regulares) y un Parser Semántico Basado en LLM (vía Gemini API). Se optó por un diseño flexible enfocado en el modelo semántico para garantizar que el sistema asimile variaciones estructurales en los planes docentes sin corromper la división jerárquica de las unidades.
+
+**Pipeline y Acumulación de Contexto:** Se diseñó una lógica de orquestación en pipeline.py bajo un patrón secuencial de estado en memoria. En lugar de procesar peticiones aisladas, el objeto, muta iterativamente, inyectando las salidas estructuradas en formato JSON de cada prompt previo. Esto previene la degradación de contexto en el modelo y asegura que las actividades finales mantengan alineación y consistencia pedagógica estricta con los contenidos iniciales.
+
+**Módulo de Exportación y Ciclo de Evaluación:** Se definió que el módulo de exportación tomará el JSON unificado con todos los datos recolectados de las unidades para generar el documento de Word (.docx). Para la fase de evaluación de este prototipo, se dividió el proceso en dos partes: una evaluación automática con el modelo de IA que genera un reporte de calidad, y una validación manual por parte de una persona real. Ambos resultados servirán como retroalimentación para ajustar y refinar las instrucciones de los prompts en el código.
+
+**Resultados y Aprendizajes:**
+
+Se completó el boceto del diagrama de arquitectura en draw.io abarcando desde la entrada de archivos hasta la salida en Word y su posterior evaluación. Se comprendió la utilidad de utilizar un formato de datos intermedio (JSON unificado) para estructurar la información de manera ordenada antes de escribir el archivo final, y cómo el encadenamiento de contexto ayuda a que los prompts generen recursos más coherentes entre sí.
